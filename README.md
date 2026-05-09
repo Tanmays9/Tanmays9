@@ -1,101 +1,123 @@
-<h1 align="center">Hey there ðŸ‘‹, I'm Tanmay Sharma</h1>
+<div align="center">
 
-<p align="center">
-  <strong>AI + Full-Stack Engineer</strong> Â· Building LLM-powered apps, RAG pipelines & agentic workflows
-</p>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI+%2B+Full-Stack+Engineer;Building+LLM+Apps+%7C+RAG+Pipelines+%7C+Agentic+Workflows" alt="Typing SVG" /></a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/tanmays040"><img src="https://img.shields.io/badge/LinkedIn-tanmays040-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:tanmaysharmait@gmail.com"><img src="https://img.shields.io/badge/Email-tanmaysharmait%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://iceecore.com"><img src="https://img.shields.io/badge/Product-Iceecore-6366F1?style=flat&logo=vercel&logoColor=white" alt="Iceecore" /></a>
-</p>
+# Hi, I'm Tanmay Sharma
 
----
+**Senior Associate Consultant @ Infosys | Building [Iceecore](https://iceecore.com)**
 
-### ðŸ§  About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanmays040-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmays040)
+[![Email](https://img.shields.io/badge/Email-tanmaysharmait-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaysharmait@gmail.com)
+[![Iceecore](https://img.shields.io/badge/Iceecore-AI%20SaaS-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://iceecore.com)
 
-I'm an AI + Full-Stack Engineer with 5+ years shipping production systems. I build LLM-powered applications, RAG pipelines, and agentic workflows â€” and deploy them as real products people use.
-
-- ðŸ”­ Currently building **[Iceecore](https://iceecore.com)** â€” an AI SaaS platform with multi-agent reasoning and RAG over user documents
-- ðŸ¢ Senior Associate Consultant at **Infosys Limited**
-- ðŸ† Insta Award 2024 recipient (Infosys) Â· Super Star & Team Player (Briskminds)
-- ðŸŽ“ B.Tech from Jaipur Engineering College & Research Centre
-- ðŸ“ Jaipur, Rajasthan, India
+</div>
 
 ---
 
-### âš¡ Tech Stack
+## About Me
 
-**AI / LLM**
+I'm an AI + Full-Stack Engineer with 5+ years shipping production systems. I build LLM-powered applications, RAG pipelines, and agentic workflows -- and deploy them as real products people use.
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-**ML & Data Science**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-**Backend & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- Currently building **[Iceecore](https://iceecore.com)** -- an AI SaaS platform with multi-agent reasoning and RAG over user documents
+- Senior Associate Consultant at **Infosys Limited**
+- Insta Award 2024 (Infosys) | Super Star & Team Player (Briskminds)
+- B.Tech from Jaipur Engineering College & Research Centre
+- Based in Jaipur, Rajasthan, India
 
 ---
 
-### ðŸš€ Featured Projects
+## Tech Stack
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Iceecore](https://iceecore.com)** | AI SaaS platform with RAG pipeline, LangGraph multi-agent system, and real-time collaboration | LangChain, LangGraph, FastAPI, Next.js 15, PostgreSQL, AWS |
-| **SF Launchpad** | VS Code extension for automated developer workflows â€” published on the Marketplace | TypeScript, VS Code API, Node.js |
+<div align="center">
+
+### AI / LLM & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ML Frameworks" />
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,docker&theme=dark" alt="Backend" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="Frontend" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux&theme=dark" alt="DevOps" />
+
+</div>
 
 ---
 
-### ðŸ“œ Certifications
+## Featured Projects
 
-- ðŸ… Agentforce Specialist (Salesforce)
-- ðŸ… Data Cloud Consultant (Salesforce)
-- ðŸ… Platform Developer I (Salesforce)
+<table>
+<tr>
+<td width="50%">
+
+### <a href="https://iceecore.com">Iceecore - AI SaaS Platform</a>
+AI assistant layer with RAG pipeline over user documents, LangGraph multi-agent system for multi-step reasoning, FastAPI inference endpoints, AWS Lambda event-driven tasks, and a full-stack product with JWT auth, RBAC, and real-time collaboration.
+
+**Stack:** LangChain, LangGraph, FastAPI, Next.js 15, TypeScript, PostgreSQL, AWS Lambda
+
+</td>
+<td width="50%">
+
+### SF Launchpad - VS Code Extension
+Published VS Code extension with automated developer workflows and productivity tooling on the Visual Studio Marketplace.
+
+**Stack:** TypeScript, VS Code API, Node.js
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ðŸ“Š GitHub Stats
+## Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmays9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmays9&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmays9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+| Badge | Certification |
+|-------|--------------|
+| <img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white" /> | Agentforce Specialist |
+| <img src="https://img.shields.io/badge/Salesforce-Data%20Cloud%20Consultant-00A1E0?style=flat-square&logo=salesforce&logoColor=white" /> | Data Cloud Consultant |
+| <img src="https://img.shields.io/badge/Salesforce-Platform%20Developer%20I-00A1E0?style=flat-square&logo=salesforce&logoColor=white" /> | Platform Developer I |
 
 ---
 
-<p align="center">
-  <em>"Build things that think, ship things that matter."</em>
-</p>
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tanmays9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmays9&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmays9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmays9&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+I'm always open to discussing AI engineering, LLM applications, and interesting projects.
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmays040)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tanmays9&color=6366F1&style=flat-square&label=Profile+Views)
+
+</div>
