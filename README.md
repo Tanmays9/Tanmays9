@@ -29,11 +29,4 @@ Frontend     React  Next.js  TypeScript  Tailwind CSS
 Infra        AWS Lambda  Docker  GitHub Actions  Linux
 ```
 
----
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tanmays9&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmays9&theme=github-dark-blue&hide_border=true" height="150" />
-
-</div>
